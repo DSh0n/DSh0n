@@ -5,7 +5,7 @@
 - <b>Azure Active Directory (Microsoft Entra ID)</b>
   - [Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Ticketing System (osTicket)</b>
-  - [Installation of osTicket](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Installation of osTicket](https://github.com/DSh0n/osTicket/blob/main/README.md)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
