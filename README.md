@@ -2,14 +2,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Azure Active Directory (Microsoft Entra ID)</b>
-  - [Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Ticketing System (osTicket)</b>
   - [Installation of osTicket](https://github.com/DSh0n/osTicket/blob/main/README.md)
   - [Configuration of osTicket](https://github.com/DSh0n/Config-osTicket)
-  - [Creation and Lifecycle osTicket](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Creation and Lifecycle osTicket](https://github.com/DSh0n/Lifecycle/blob/main/README.md)
 
+-  <b>Azure Active Directory (Microsoft Entra ID)</b>
+  - [Home lab 🚧In Progress🚧]()
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="dshon-edwards | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
