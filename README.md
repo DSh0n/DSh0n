@@ -1,4 +1,5 @@
-<h1> Hi, I'm <a href="https://www.linkedin.com/in/dshon-edwards-b12b40342">DShon</a>👋<br/>
+<h1><p align="center">
+Hi, I'm <a href="https://www.linkedin.com/in/dshon-edwards-b12b40342">DShon</a>👋</h1>
 
 <h2>💻Information Technology Projects:</h2>
 
