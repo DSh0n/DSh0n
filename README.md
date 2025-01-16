@@ -7,7 +7,7 @@
 - <b>Ticketing System (osTicket)</b>
   - [Installation of osTicket](https://github.com/DSh0n/osTicket/blob/main/README.md)
   - [Configuration of osTicket](https://github.com/DSh0n/Config-osTicket)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Creation and Lifecycle osTicket](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2> 🤳 Connect with me:</h2>
