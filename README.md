@@ -9,7 +9,7 @@ Hi, I'm <a href="https://www.linkedin.com/in/dshon-edwards-b12b40342">DShon</a>ğ
   - [Creation and Lifecycle osTicket](https://github.com/DSh0n/Lifecycle/blob/main/README.md)
 
 - <b>Microsoft Azure</b>
-  - [Implementing Active Directory (Cloud)]([https://github.com/DSh0n/MS-Azure/blob/main/README.md)
+  - [Implementing Active Directory](https://github.com/DSh0n/MS-Azure/blob/main/README.md)
 <h2>ğŸŒConnect with me:</h2>
 
 [<img align="left" alt="dshon-edwards | LinkedIn" width="22px" src="https://i.imgur.com/j8uIZgH.png" />][linkedin]
